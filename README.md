@@ -1,16 +1,15 @@
 # covidhealth
 
-A new Flutter application.
+A flutter application for monitoring your health.
 
-## Getting Started
+## Discription
 
 This project is a starting point for a Flutter application.
+"My First Flutter App"
 
-A few resources to get you started if this is your first Flutter project:
+This appliction is usefull to have a quick peek on the health,it gives a overview wheather you are becomoing overweight, underweight or normal.
+It takes input of your height ,weight and age .This is used to calculate your BMI(Body Mass Index) which in turn is used in calculating your health.
+App is made simple,and with good UI.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
