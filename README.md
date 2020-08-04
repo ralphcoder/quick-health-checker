@@ -1,4 +1,4 @@
-# covidhealth
+# Quick Health Checker
 
 A flutter application for monitoring your health.(⌐■_■)
 
