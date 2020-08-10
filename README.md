@@ -17,7 +17,7 @@ It takes input of your height ,weight and age .This is used to calculate your BM
 App is made simple,and with good UI.
 
 This repositry also contains an **apk** to install directly on device.
-so have a check on your health
+so have a check on your health💪.
 
 
 
