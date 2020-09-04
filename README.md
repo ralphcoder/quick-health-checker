@@ -10,14 +10,14 @@ A flutter app for monitoring your health.(⌐■_■)
 This project is a starting point for a Flutter application.
 **My First Flutter App**😅
 
-This appliction is usefull to have a quick peek on the health,it gives a overview wheather you are becomoing overweight, underweight or normal.
+This application is useful to have a quick peek on health, it gives an overview of whether you are becoming overweight, underweight, or normal.
 
-It takes input of your height ,weight and age .This is used to calculate your BMI(Body Mass Index) which in turn is used in calculating your health.
+It takes the input of your height, weight, and age. This is used to calculate your BMI(Body Mass Index) which in turn is used in calculating your health.
 
-App is made simple,and with good UI.
+The app is made simple and with good UI..
 
-This repositry also contains an **apk** to install directly on device.
-so have a check on your health💪.
+This repository also contains an **apk** to install directly on the device. 
+So have a check on your health💪..
 
 
 
