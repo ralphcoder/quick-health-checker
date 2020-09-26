@@ -3,7 +3,7 @@
 A flutter app for monitoring your health.(⌐■_■)
 
 # snapshot
-![app image](https://github.com/ralphcoder/covid_health/blob/master/Mockup_02_marble_PSD%20(3)-min.jpg)
+![app image](https://github.com/ralphcoder/quick-health-checker/blob/master/covid%20health_compressed.jpg)
 
 ## Discription
 
