@@ -1,6 +1,6 @@
 # Quick Health Checker
 
-A flutter app for monitoring your health.(⌐■_■)
+A flutter app for monitoring your health. (⌐■_■)
 
 # snapshot
 ![app image](https://github.com/ralphcoder/quick-health-checker/blob/master/covid%20health_compressed.jpg)
