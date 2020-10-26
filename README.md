@@ -14,7 +14,7 @@ This application is useful to have a quick peek on health, it gives an overview 
 
 It takes the input of your height, weight, and age. This is used to calculate your BMI(Body Mass Index) which in turn is used in calculating your health.
 
-The app is made simple and with good UI..
+The app is made simple and cool UI..
 
 This repository also contains an **apk** to install directly on the device. 
 So have a check on your health 💪..
