@@ -17,7 +17,7 @@ It takes the input of your height, weight, and age. This is used to calculate yo
 The app is made simple and with good UI..
 
 This repository also contains an **apk** to install directly on the device. 
-So have a check on your health💪..
+So have a check on your health 💪..
 
 
 
