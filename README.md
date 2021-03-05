@@ -12,7 +12,7 @@ This project is a beginner example for a Flutter applications.
 
 This application is useful to have a quick peek on your health, it gives an overview of whether you are becoming overweight, underweight, or normal.
 
-It takes the input of your height, weight, and age. This is used to calculate your BMI (Body Mass Index) which in turn is used in calculating your health.
+It takes the input of your height, weight, and age. This is used to calculate your BMI (Body Mass Index) which in turn used in calculating your health.
 
 The app is made simple and cool UI..
 
