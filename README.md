@@ -10,7 +10,7 @@ Flutter app for monitoring our health. (⌐■_■)
 This project is a beginner example for a Flutter applications.
 **My First Flutter App** 😅
 
-This application is useful to have a quick peek on your health, it gives an overview of whether you are becoming overweight, underweight, or normal.
+This application is useful to have a quick peek on your health, it gives an overview of whether you are becoming overweight, underweight, or you are normal.
 
 It takes the input of your height, weight, and age. This is used to calculate your BMI (Body Mass Index) which in turn used in calculating your health.
 
