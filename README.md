@@ -20,5 +20,5 @@ This repository also contains an **apk** to install directly on the device.
 So have a check on your health 💪...
 
 
-<img align="left" width="309" height="550" src="https://github.com/ralphcoder/Liglo/blob/master/repeater.gif">
+<img align="left" width="309" height="550" src="https://github.com/ralphcoder/quick-health-checker/blob/master/repeater.gif">
 
