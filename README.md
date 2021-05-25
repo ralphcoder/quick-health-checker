@@ -7,7 +7,7 @@ Flutter app for monitoring our health. (⌐■_■)
 
 ## Discription
 
-This project is a beginner example for a Flutter applications.
+This project is beginner example for a Flutter applications.
 **My First Flutter App** 😅
 
 This application is useful to have a quick peek on your health, it gives an overview of whether you are becoming overweight, underweight, or you are normal.
