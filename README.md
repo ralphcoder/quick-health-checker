@@ -2,7 +2,7 @@
 
 Flutter app for monitoring our health. ( ⌐■_■ )
 
-# Snapshot
+# Snapshots
 ![app image](https://github.com/ralphcoder/quick-health-checker/blob/master/covid%20health_compressed.jpg)
 
 ## Discription
